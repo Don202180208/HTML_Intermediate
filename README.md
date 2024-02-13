@@ -7,7 +7,7 @@
 
 ### Learning Outcomes
 
-After completing this module, you will be able to:
+After completing this module, we were able to:
 
 #### Lesson 1: Forms
 - Build interactive forms using `<form>` and various input elements like text fields, checkboxes, radio buttons, and submit buttons.
