@@ -23,20 +23,4 @@ After completing this module, we were able to:
 - Define table headers for improved data comprehension.
 - Populate tables with rows and cells to organize and display tabular data effectively.
 
-### Lesson 1: Forms
 
-Below is the fundamental structure of an HTML form:
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<title>Sample Form</title>
-</head>
-<body>
-<h1>Sample Form</h1>
-
-<form action="#" method="post">
-
-<label for="input1">Label for Input 1:</label>
-<input type="text" id="input1" name="input1">
